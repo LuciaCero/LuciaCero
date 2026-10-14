@@ -5,8 +5,8 @@ Computer Engineering graduate (University of Málaga). Junior developer based in
 I'm looking for my first junior role in backend development or systems.
 
 ### Projects
-- **[CPM Extremo](https://github.com/LuciaCero/CPM-Extremo)**: a Python tool that calculates a project's critical path and its minimum cost, and generates the graph, Gantt chart, cost-time curve and a LaTeX report.
 - **Degree project: 3D basketball game with autonomous agents** (Unity, C#, grade 9/10): a 3x3 simulation driven by a state machine and regression models. The code is not public.
+- **[CPM Extremo](https://github.com/LuciaCero/CPM-Extremo)**: a Python tool that calculates a project's critical path and its minimum cost, and generates the graph, Gantt chart, cost-time curve and a LaTeX report.
 
 ### Currently learning
 Docker, Linux servers and infrastructure as code.
